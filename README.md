@@ -5,12 +5,11 @@ This project is a basic clone of the restaurant review app, Yelp. This app has j
 ### Features
 * RecyclerView
 * Retrofit2
-* ViewBinding
-* Coroutines
 * APIs
 * Glide
 
+</br>
 <img src='https://i.imgur.com/vMSSsZM.png' title='App screenshot'  alt='App screenshot' />
 
 </br>
-Tutorial done from Rahul pandey YT channel https://www.youtube.com/c/RahulPandeyrkp
+Tutorial from Rahul pandey YT channel https://www.youtube.com/c/RahulPandeyrkp
